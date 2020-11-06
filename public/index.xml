@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>X^n&#43;Y^n=Z^n on X^n&#43;Y^n=Z^n</title>
-		<link>/</link>
+		<link>https://roleyder.netlify.app/</link>
 		<description>Recent content in X^n&#43;Y^n=Z^n </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -15,9 +15,9 @@
 		
 		<item>
 			<title>Notes:  The processor</title>
-			<link>/2020/06/16/notes-processor/</link>
+			<link>https://roleyder.netlify.app/2020/06/16/notes-processor/</link>
 			<pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-			<guid>/2020/06/16/notes-processor/</guid>
+			<guid>https://roleyder.netlify.app/2020/06/16/notes-processor/</guid>
 			<description>&lt;p&gt;A brief write of the processor&amp;rsquo;s history.&lt;/p&gt;</description>
 		</item>
       	

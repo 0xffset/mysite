@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://roleyder.netlify.app/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/cpu/</loc>
+    <loc>https://roleyder.netlify.app/tags/cpu/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/notes/</loc>
+    <loc>https://roleyder.netlify.app/tags/notes/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/06/16/notes-processor/</loc>
+    <loc>https://roleyder.netlify.app/2020/06/16/notes-processor/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://roleyder.netlify.app/post/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://roleyder.netlify.app/tags/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://roleyder.netlify.app/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>https://roleyder.netlify.app/archives/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://roleyder.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>/page/</loc>
+    <loc>https://roleyder.netlify.app/page/</loc>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>https://roleyder.netlify.app/search/</loc>
   </url>
   
 </urlset>

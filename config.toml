@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://roleyder.netlify.app"
 title = "X^n+Y^n=Z^n"
 author = "Rogger Garcia"
 paginate = 3

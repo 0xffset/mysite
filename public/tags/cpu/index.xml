@@ -1,15 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on X^n&#43;Y^n=Z^n</title>
-		<link>/categories/</link>
-		<description>Recent content in Categories </description>
+		<title>cpu on X^n&#43;Y^n=Z^n</title>
+		<link>/tags/cpu/</link>
+		<description>Recent content in cpu </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
   		<language>en</language>
 		
-		<managingEditor>Page(/categories) (rolEYder)</managingEditor>
+		<managingEditor>Page(/tags/cpu) (rolEYder)</managingEditor>
     	
-		<atom:link href="/categories/" rel="self" type="application/rss+xml" />
+  		<lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/cpu/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Notes:  The processor</title>

@@ -1,4 +1,4 @@
-baseURL = "https://roleyder.github.io/"
+baseURL = ""
 title = "X^n+Y^n=Z^n"
 author = "Rogger Garcia"
 paginate = 3

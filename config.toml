@@ -1,0 +1,50 @@
+baseURL = "https://roleyder.github.io/"
+title = "X^n+Y^n=Z^n"
+author = "Rogger Garcia"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+# DO NOT REMOVE THIS
+theme = "harbor"
+ignoreErrors = ["error-remote-getjson"]
+[Author]
+  name = "rolEYder"
+
+[permalinks]
+	post = "/:year/:month/:day/:filename/"
+	page = "/:filename/"
+
+[outputs]
+    section = ["JSON", "HTML"]
+
+[[params.nav]]
+  identifier = "about"
+  name = "About"
+  icon = "fas fa-user fa-lg"
+  url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tags"
+  name = "Tags"
+  icon = "fas fa-tag fa-lg"
+  url = "/tags/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "search"
+  name = "Search"
+  icon = "fas fa-search fa-lg"
+  url = "/search/"
+  weight = 3
+
+[[params.social]]
+  name= "github"
+  url="https://github.com/RolEYder"
+  icon="fab fa-github"
+
+[params]
+  mainSections = ["post"]
+
